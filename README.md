@@ -54,7 +54,17 @@ Power BI Dashboard
 
 ## Project Status
 
-🚧 In Progress
+✅ Repository Setup Complete
+
+✅ Deviation Dataset Uploaded
+
+🚧 CAPA Dataset In Progress
+
+🚧 Change Control Dataset In Progress
+
+🚧 Fabric Lakehouse Development In Progress
+
+🚧 Power BI Dashboard In Progress
 
 ---
 
