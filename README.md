@@ -233,9 +233,10 @@ pharma-quality-data-platform
 
 ### Raman KB
 
-**Aspiring Data Engineer**
+**Aspiring Data Engineer | Microsoft Fabric | SQL | Power BI**
 
-Skills:
+#### Core Skills
+
 - SQL
 - Python
 - Microsoft Fabric
@@ -243,7 +244,10 @@ Skills:
 - Data Warehousing
 - ETL
 - Lakehouse Architecture
+- Data Modeling
 
-LinkedIn: Add Your LinkedIn URL
+#### Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
 GitHub: https://github.com/Raman-K-B
