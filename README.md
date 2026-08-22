@@ -17,6 +17,22 @@ The platform centralizes and analyzes quality-related data to support compliance
 
 ---
 
+## Skills Demonstrated
+
+- SQL
+- Python
+- Microsoft Fabric
+- Power BI
+- ETL / ELT
+- Data Warehousing
+- Data Modeling
+- Data Quality Validation
+- Lakehouse Architecture
+- Medallion Architecture
+- Business Analytics
+
+---
+
 ## Business Problem
 
 Pharmaceutical organizations generate quality and compliance data across multiple systems and departments.
@@ -40,6 +56,18 @@ Business users require a centralized analytics platform to:
 - Perform data cleansing and transformation
 - Create business-ready KPI datasets
 - Develop executive dashboards in Power BI
+
+---
+
+## Project Highlights
+
+- Designed an end-to-end pharmaceutical quality analytics platform
+- Structured datasets using Medallion Architecture (Bronze, Silver, Gold)
+- Built sample pharmaceutical datasets for Deviations, CAPA, and Change Controls
+- Developed SQL scripts for reporting and data quality checks
+- Created technical documentation following Data Engineering best practices
+- Prepared architecture for Microsoft Fabric Lakehouse implementation
+- Designed KPI reporting framework for quality analytics
 
 ---
 
@@ -141,7 +169,9 @@ pharma-quality-data-platform
 ├── sql
 │   ├── create_tables.sql
 │   ├── business_queries.sql
-│   └── data_quality_checks.sql
+│   ├── data_quality_checks.sql
+│   ├── silver_transformations.sql
+│   └── gold_kpi_queries.sql
 │
 ├── README.md
 └── LICENSE
@@ -161,6 +191,56 @@ pharma-quality-data-platform
 - Data Warehousing
 - KPI Reporting
 - Power BI Analytics
+
+---
+
+## Dashboard Screenshots
+
+Dashboard development is currently in progress.
+
+### Planned Dashboards
+
+- Quality KPI Dashboard
+- Deviation Analytics Dashboard
+- CAPA Performance Dashboard
+- Change Control Dashboard
+- Executive Quality Metrics Dashboard
+
+Screenshots will be uploaded after Power BI dashboard development.
+
+---
+
+## Current Progress
+
+### Data Layer
+
+✅ Deviations Dataset Available
+
+✅ CAPA Dataset Available
+
+✅ Change Control Dataset Available
+
+### Documentation
+
+✅ Business Problem Document
+
+✅ Solution Architecture Document
+
+✅ Medallion Architecture Document
+
+### Development
+
+✅ SQL Scripts
+
+✅ Data Quality Checks
+
+🚧 Silver Layer Transformation
+
+🚧 Gold Layer KPI Generation
+
+🚧 Microsoft Fabric Lakehouse
+
+🚧 Power BI Dashboard
 
 ---
 
@@ -215,6 +295,7 @@ pharma-quality-data-platform
 - Centralized compliance reporting
 - Faster management decision-making
 - Better audit preparedness
+- Enhanced data-driven quality monitoring
 
 ---
 
@@ -226,28 +307,38 @@ pharma-quality-data-platform
 - CI/CD Integration
 - Real-Time Monitoring
 - Azure Data Factory Integration
+- Fabric Data Pipelines
+- Delta Lake Implementation
 
 ---
 
 ## Author
 
-### Raman KB
+# Raman KB
 
-**Aspiring Data Engineer | Microsoft Fabric | SQL | Power BI**
+### Aspiring Data Engineer | Microsoft Fabric | SQL | Power BI
 
-#### Core Skills
+Pharma IT professional with 3+ years of experience in GxP-regulated environments, Computer System Validation (CSV), Data Integrity, CAPA, Change Control, and Compliance Systems.
+
+Currently building hands-on Data Engineering projects using Microsoft Fabric, SQL, Python, Data Warehousing, ETL Pipelines, and Lakehouse Architecture.
+
+### Core Skills
 
 - SQL
 - Python
 - Microsoft Fabric
 - Power BI
-- Data Warehousing
 - ETL
-- Lakehouse Architecture
+- Data Warehousing
 - Data Modeling
+- Lakehouse Architecture
+- Data Quality
+- Data Analytics
 
-#### Connect With Me
+### Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
 GitHub: https://github.com/Raman-K-B
+
+Location: Ahmedabad, Gujarat, India
