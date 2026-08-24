@@ -264,7 +264,7 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ✅ Gold Layer KPI Dataset Created
 
-🚧 Fabric Lakehouse Implementation In Progress
+✅ Microsoft Fabric Lakehouse Implemented
 
 🚧 Power BI Dashboard Development In Progress
 
@@ -281,7 +281,7 @@ Screenshots will be uploaded after Power BI dashboard development.
 - [x] Implement Data Quality Checks
 - [x] Build Silver Layer
 - [x] Build Gold Layer
-- [ ] Implement Microsoft Fabric Lakehouse
+- [x] Implement Microsoft Fabric Lakehouse
 - [ ] Create Data Warehouse
 - [ ] Develop Power BI Dashboard
 - [ ] Publish Final Project
