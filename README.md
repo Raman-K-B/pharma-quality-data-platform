@@ -234,9 +234,9 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ✅ Data Quality Checks
 
-🚧 Silver Layer Transformation
+✅ Silver Layer Datasets Created
 
-🚧 Gold Layer KPI Generation
+✅ Gold Layer KPI Dataset Created
 
 🚧 Microsoft Fabric Lakehouse
 
@@ -258,11 +258,11 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ✅ Initial SQL Scripts Added
 
-🚧 Data Quality Checks In Progress
+✅ Data Quality Checks Completed
 
-🚧 Silver Layer Development In Progress
+✅ Silver Layer Datasets Created
 
-🚧 Gold Layer Development In Progress
+✅ Gold Layer KPI Dataset Created
 
 🚧 Fabric Lakehouse Implementation In Progress
 
@@ -278,9 +278,9 @@ Screenshots will be uploaded after Power BI dashboard development.
 - [x] Upload Change Control Dataset
 - [x] Create Documentation
 - [x] Create Initial SQL Scripts
-- [ ] Implement Data Quality Checks
-- [ ] Build Silver Layer
-- [ ] Build Gold Layer
+- [x] Implement Data Quality Checks
+- [x] Build Silver Layer
+- [x] Build Gold Layer
 - [ ] Implement Microsoft Fabric Lakehouse
 - [ ] Create Data Warehouse
 - [ ] Develop Power BI Dashboard
@@ -298,7 +298,45 @@ Screenshots will be uploaded after Power BI dashboard development.
 - Enhanced data-driven quality monitoring
 
 ---
+## Medallion Architecture Implementation
 
+### Bronze Layer
+
+Raw source files stored in Excel format:
+
+- Deviations.xlsx
+- CAPA.xlsx
+- Change_Control.xlsx
+
+### Silver Layer
+
+Data cleansing and standardization:
+
+- Deviations.csv
+- CAPA.csv
+- Change_Control.csv
+
+Data quality activities:
+
+- Duplicate removal
+- Status standardization
+- Department standardization
+- Date validation
+
+### Gold Layer
+
+Business KPI dataset:
+
+- Quality_KPI_Summary.csv
+
+Provides:
+
+- Deviation KPIs
+- CAPA KPIs
+- Change Control KPIs
+
+---
+  
 ## Future Enhancements
 
 - Incremental Data Loading
@@ -314,7 +352,7 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ## Author
 
-# Raman KB
+### Raman KB
 
 ### Aspiring Data Engineer | Microsoft Fabric | SQL | Power BI
 
@@ -337,8 +375,8 @@ Currently building hands-on Data Engineering projects using Microsoft Fabric, SQ
 
 ### Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/raman-k-b-14892024b/
 
-GitHub: https://github.com/Raman-K-B
+💻 GitHub: https://github.com/Raman-K-B
 
-Location: Ahmedabad, Gujarat, India
+📍 Location: Chennai, Tamil Nadu, India
