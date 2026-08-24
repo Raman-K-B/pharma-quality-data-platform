@@ -1,0 +1,101 @@
+CAPA_ID,Department,CAPA_Type,Root_Cause,Status,Target_Date,Completion_Date,Owner
+CAPA001,Manufacturing,Corrective,Process Deviation,Open,2025-05-09,,User5
+CAPA002,QA,Preventive,Documentation Error,Closed,2025-04-29,2025-05-13,User1
+CAPA003,IT,Corrective,Process Deviation,Open,2025-04-20,,User18
+CAPA004,IT,Preventive,Documentation Error,Open,2026-03-20,,User6
+CAPA005,QC,Corrective,System Failure,In Progress,2026-03-23,,User4
+CAPA006,Manufacturing,Preventive,Equipment Failure,In Progress,2025-04-19,,User2
+CAPA007,Engineering,Corrective,Equipment Failure,In Progress,2026-04-30,,User20
+CAPA008,Warehouse,Corrective,Documentation Error,In Progress,2026-01-20,,User8
+CAPA009,QA,Preventive,Equipment Failure,Closed,2025-11-07,2025-11-01,User15
+CAPA010,Manufacturing,Corrective,Equipment Failure,Open,2026-01-23,,User3
+CAPA011,QC,Corrective,Data Integrity Issue,In Progress,2025-07-09,,User13
+CAPA012,Warehouse,Corrective,System Failure,Closed,2025-10-18,2025-11-07,User2
+CAPA013,Engineering,Preventive,Training Gap,Closed,2025-09-06,2025-09-06,User7
+CAPA014,Engineering,Preventive,Data Integrity Issue,Open,2025-12-03,,User5
+CAPA015,Warehouse,Preventive,Missing Procedure,Open,2025-10-13,,User19
+CAPA016,QC,Preventive,Training Gap,In Progress,2026-02-27,,User2
+CAPA017,QC,Preventive,Training Gap,Open,2025-05-07,,User13
+CAPA018,Engineering,Preventive,Documentation Error,In Progress,2026-02-09,,User4
+CAPA019,QA,Preventive,Missing Procedure,Closed,2025-10-15,2025-10-16,User6
+CAPA020,Warehouse,Preventive,Human Error,Open,2026-04-24,,User17
+CAPA021,Warehouse,Corrective,Human Error,Closed,2025-05-03,2025-05-02,User12
+CAPA022,IT,Corrective,System Failure,In Progress,2025-06-29,,User16
+CAPA023,Manufacturing,Preventive,Process Deviation,Open,2025-02-03,,User2
+CAPA024,QA,Preventive,Training Gap,Closed,2025-09-18,2025-09-03,User18
+CAPA025,Engineering,Corrective,Equipment Failure,Open,2025-05-23,,User17
+CAPA026,Warehouse,Corrective,Equipment Failure,Closed,2026-03-24,2026-04-07,User13
+CAPA027,IT,Preventive,Training Gap,In Progress,2026-02-01,,User8
+CAPA028,QA,Corrective,Process Deviation,Open,2025-09-02,,User1
+CAPA029,QC,Corrective,Documentation Error,Closed,2025-03-28,2025-03-11,User11
+CAPA030,Manufacturing,Preventive,Process Deviation,In Progress,2025-03-28,,User18
+CAPA031,IT,Preventive,Process Deviation,Closed,2025-05-30,2025-06-15,User16
+CAPA032,QA,Preventive,System Failure,Open,2026-03-07,,User14
+CAPA033,Warehouse,Corrective,Training Gap,In Progress,2026-03-11,,User2
+CAPA034,QC,Corrective,Process Deviation,Closed,2026-03-03,2026-02-17,User18
+CAPA035,QC,Preventive,Data Integrity Issue,Open,2026-04-19,,User8
+CAPA036,IT,Corrective,Documentation Error,In Progress,2025-04-02,,User18
+CAPA037,QC,Preventive,Data Integrity Issue,Closed,2025-01-30,2025-01-25,User16
+CAPA038,QC,Preventive,Documentation Error,Closed,2025-08-21,2025-08-04,User13
+CAPA039,Manufacturing,Preventive,Data Integrity Issue,Closed,2025-10-13,2025-10-22,User5
+CAPA040,QA,Corrective,System Failure,Open,2025-07-28,,User2
+CAPA041,IT,Corrective,Documentation Error,In Progress,2025-03-07,,User17
+CAPA042,IT,Corrective,Process Deviation,Closed,2025-04-07,2025-03-22,User13
+CAPA043,QC,Corrective,Training Gap,Closed,2025-05-17,2025-06-02,User14
+CAPA044,Warehouse,Preventive,Process Deviation,Closed,2025-12-04,2025-11-27,User9
+CAPA045,Warehouse,Preventive,Data Integrity Issue,Open,2026-02-24,,User11
+CAPA046,IT,Corrective,Training Gap,Open,2025-03-30,,User18
+CAPA047,QC,Preventive,Training Gap,In Progress,2025-08-21,,User8
+CAPA048,Engineering,Preventive,Documentation Error,Open,2026-01-28,,User18
+CAPA049,QC,Preventive,Training Gap,Closed,2025-11-17,2025-11-03,User4
+CAPA050,IT,Corrective,System Failure,Open,2025-06-23,,User7
+CAPA051,Manufacturing,Corrective,Training Gap,In Progress,2025-10-12,,User14
+CAPA052,Manufacturing,Corrective,Equipment Failure,Open,2025-10-25,,User6
+CAPA053,Engineering,Corrective,Training Gap,In Progress,2026-04-12,,User3
+CAPA054,Manufacturing,Corrective,Missing Procedure,In Progress,2025-06-16,,User5
+CAPA055,QA,Preventive,Process Deviation,In Progress,2025-02-26,,User8
+CAPA056,IT,Preventive,Human Error,In Progress,2025-04-30,,User8
+CAPA057,Engineering,Corrective,Human Error,Closed,2025-06-30,2025-06-21,User11
+CAPA058,Manufacturing,Corrective,Training Gap,Closed,2026-03-12,2026-03-07,User13
+CAPA059,QC,Preventive,System Failure,Closed,2025-02-23,2025-02-17,User10
+CAPA060,Warehouse,Corrective,Missing Procedure,Open,2025-09-05,,User11
+CAPA061,Manufacturing,Preventive,System Failure,Closed,2025-10-27,2025-10-24,User1
+CAPA062,QC,Preventive,Documentation Error,Closed,2025-05-13,2025-05-09,User4
+CAPA063,Manufacturing,Preventive,Training Gap,In Progress,2026-04-04,,User13
+CAPA064,Warehouse,Preventive,Documentation Error,Open,2025-07-28,,User17
+CAPA065,QA,Preventive,System Failure,In Progress,2025-08-04,,User4
+CAPA066,Warehouse,Preventive,System Failure,In Progress,2025-11-18,,User13
+CAPA067,QC,Preventive,Missing Procedure,In Progress,2025-11-13,,User6
+CAPA068,QA,Preventive,Equipment Failure,In Progress,2025-11-19,,User7
+CAPA069,Warehouse,Preventive,Data Integrity Issue,Closed,2026-03-31,2026-04-18,User15
+CAPA070,Engineering,Corrective,Training Gap,Closed,2026-04-12,2026-04-24,User10
+CAPA071,QC,Preventive,Process Deviation,Open,2025-12-24,,User7
+CAPA072,QC,Preventive,Training Gap,Open,2025-06-14,,User15
+CAPA073,QC,Preventive,Data Integrity Issue,Closed,2026-03-15,2026-03-31,User13
+CAPA074,Warehouse,Corrective,Training Gap,Open,2025-09-21,,User14
+CAPA075,Warehouse,Preventive,Documentation Error,Open,2025-08-27,,User18
+CAPA076,Engineering,Corrective,Data Integrity Issue,Closed,2025-09-27,2025-09-14,User17
+CAPA077,IT,Preventive,Data Integrity Issue,Closed,2025-12-05,2025-12-13,User6
+CAPA078,QC,Preventive,Data Integrity Issue,In Progress,2026-05-16,,User8
+CAPA079,Warehouse,Preventive,Process Deviation,In Progress,2025-10-23,,User9
+CAPA080,IT,Corrective,Human Error,In Progress,2025-12-24,,User5
+CAPA081,QC,Corrective,Training Gap,In Progress,2025-09-08,,User14
+CAPA082,Engineering,Preventive,Documentation Error,In Progress,2026-03-08,,User7
+CAPA083,IT,Corrective,Missing Procedure,In Progress,2026-03-21,,User16
+CAPA084,Engineering,Preventive,Process Deviation,Closed,2025-01-21,2025-01-20,User16
+CAPA085,Engineering,Corrective,Missing Procedure,Open,2025-08-27,,User11
+CAPA086,QC,Corrective,Missing Procedure,Closed,2026-03-05,2026-03-14,User19
+CAPA087,Engineering,Corrective,Data Integrity Issue,Open,2025-02-11,,User6
+CAPA088,Manufacturing,Corrective,Data Integrity Issue,Open,2025-03-07,,User11
+CAPA089,Manufacturing,Preventive,Equipment Failure,Closed,2025-12-26,2025-12-30,User3
+CAPA090,IT,Corrective,System Failure,Open,2026-05-11,,User8
+CAPA091,QA,Corrective,Process Deviation,Closed,2025-03-26,2025-04-16,User7
+CAPA092,QC,Preventive,Training Gap,Closed,2025-02-04,2025-01-30,User19
+CAPA093,Manufacturing,Preventive,Human Error,In Progress,2025-08-26,,User20
+CAPA094,Manufacturing,Corrective,Documentation Error,Closed,2025-05-12,2025-05-02,User10
+CAPA095,Warehouse,Corrective,Training Gap,In Progress,2026-02-03,,User19
+CAPA096,Manufacturing,Corrective,Documentation Error,Open,2025-09-20,,User12
+CAPA097,IT,Preventive,Documentation Error,Closed,2026-03-29,2026-03-13,User14
+CAPA098,Manufacturing,Preventive,Human Error,Open,2026-05-31,,User14
+CAPA099,Manufacturing,Preventive,Data Integrity Issue,Closed,2025-07-14,2025-08-04,User14
+CAPA100,QC,Corrective,Equipment Failure,In Progress,2025-10-16,,User15

@@ -1,0 +1,101 @@
+Deviation_ID,Department,Category,Severity,Status,Date_Opened,Date_Closed,Owner
+DEV001,Warehouse,Documentation,Medium,In Progress,2025-07-06,,User1
+DEV002,Engineering,Data Integrity,Critical,Closed,2025-01-08,2025-01-19,User19
+DEV003,QA,System,Medium,Closed,2026-03-11,2026-05-06,User20
+DEV004,Manufacturing,Process,Medium,Open,2026-01-15,,User6
+DEV005,QC,Data Integrity,High,Open,2025-02-11,,User8
+DEV006,Warehouse,Data Integrity,Critical,Open,2026-01-14,,User17
+DEV007,Engineering,Documentation,High,Closed,2025-12-06,2026-01-27,User11
+DEV008,Manufacturing,Training,Critical,In Progress,2025-03-30,,User8
+DEV009,Warehouse,Equipment,Low,Closed,2025-03-22,2025-05-08,User11
+DEV010,Manufacturing,Documentation,High,In Progress,2025-11-16,,User3
+DEV011,QC,Training,High,In Progress,2025-08-14,,User4
+DEV012,QA,Data Integrity,Medium,Closed,2025-08-04,2025-08-08,User13
+DEV013,QA,Training,High,Open,2026-01-13,,User16
+DEV014,Manufacturing,Documentation,Medium,Open,2025-07-26,,User16
+DEV015,IT,Data Integrity,High,In Progress,2026-02-22,,User12
+DEV016,Warehouse,System,Medium,Closed,2025-06-18,2025-08-17,User3
+DEV017,Engineering,Documentation,Low,In Progress,2025-02-19,,User18
+DEV018,Warehouse,Equipment,Medium,Open,2025-07-26,,User2
+DEV019,Engineering,Process,High,Open,2025-03-24,,User17
+DEV020,QA,Documentation,Medium,In Progress,2025-09-22,,User6
+DEV021,Engineering,Process,Low,Open,2026-01-28,,User6
+DEV022,Manufacturing,Documentation,High,Closed,2025-11-16,2025-12-16,User14
+DEV023,Warehouse,Training,High,Closed,2025-09-26,2025-11-04,User19
+DEV024,Engineering,Documentation,High,Closed,2025-09-15,2025-10-17,User16
+DEV025,Engineering,Training,Medium,Open,2025-12-09,,User18
+DEV026,Manufacturing,Process,Low,In Progress,2025-03-24,,User11
+DEV027,Warehouse,Training,Critical,Open,2026-04-24,,User17
+DEV028,Engineering,Equipment,Medium,In Progress,2025-05-07,,User9
+DEV029,Engineering,Process,Low,Open,2025-08-14,,User11
+DEV030,QA,Process,Critical,In Progress,2026-01-28,,User19
+DEV031,Warehouse,System,Medium,Closed,2026-01-28,2026-03-26,User12
+DEV032,QC,Data Integrity,Critical,Closed,2025-06-06,2025-07-10,User7
+DEV033,QC,Training,Medium,Closed,2026-01-23,2026-02-15,User19
+DEV034,IT,Equipment,Critical,Closed,2025-07-21,2025-07-24,User20
+DEV035,QA,Process,Critical,In Progress,2025-11-03,,User5
+DEV036,QA,Training,Low,Closed,2025-05-19,2025-05-30,User4
+DEV037,QA,Data Integrity,Medium,In Progress,2025-12-02,,User4
+DEV038,QC,Training,Critical,In Progress,2025-09-27,,User12
+DEV039,IT,System,Critical,Closed,2025-03-08,2025-04-03,User9
+DEV040,QC,System,Critical,Closed,2025-08-14,2025-09-23,User4
+DEV041,Warehouse,Process,Low,Open,2025-02-23,,User12
+DEV042,Warehouse,Equipment,High,In Progress,2025-04-12,,User14
+DEV043,Manufacturing,Data Integrity,Medium,In Progress,2025-06-20,,User20
+DEV044,QC,Training,Low,In Progress,2026-01-03,,User9
+DEV045,Warehouse,Training,Low,Closed,2026-03-28,2026-05-25,User8
+DEV046,Manufacturing,Process,Low,Closed,2025-01-23,2025-03-05,User13
+DEV047,Warehouse,Data Integrity,Low,Open,2025-10-07,,User12
+DEV048,Engineering,Process,Low,In Progress,2025-04-08,,User6
+DEV049,Warehouse,Process,Low,In Progress,2026-01-01,,User1
+DEV050,QC,Process,Low,Open,2026-03-27,,User7
+DEV051,Manufacturing,Documentation,High,Open,2026-03-08,,User17
+DEV052,Warehouse,System,High,Open,2025-09-27,,User1
+DEV053,IT,Documentation,Critical,In Progress,2026-05-10,,User1
+DEV054,IT,Documentation,Low,Closed,2025-06-29,2025-08-24,User20
+DEV055,QC,System,Critical,Open,2025-07-21,,User17
+DEV056,Manufacturing,System,High,Closed,2025-05-10,2025-05-19,User13
+DEV057,IT,Documentation,Low,Closed,2025-05-14,2025-06-17,User19
+DEV058,Engineering,Data Integrity,Low,In Progress,2026-04-27,,User15
+DEV059,IT,Equipment,Low,In Progress,2025-08-10,,User11
+DEV060,QA,System,Critical,In Progress,2025-10-23,,User15
+DEV061,Manufacturing,Training,Medium,In Progress,2025-02-15,,User18
+DEV062,QC,System,Medium,Closed,2025-03-20,2025-05-12,User10
+DEV063,IT,Training,High,Closed,2025-11-02,2025-12-30,User4
+DEV064,QA,Equipment,Low,Closed,2025-09-05,2025-09-06,User4
+DEV065,Engineering,Equipment,Low,Open,2026-03-07,,User16
+DEV066,QA,Equipment,Low,In Progress,2026-05-02,,User4
+DEV067,Engineering,Process,Medium,In Progress,2026-05-02,,User12
+DEV068,Warehouse,Process,Medium,In Progress,2025-04-28,,User7
+DEV069,IT,Process,Low,In Progress,2025-10-06,,User15
+DEV070,Warehouse,Process,Medium,Open,2026-04-07,,User9
+DEV071,Warehouse,Training,High,Closed,2026-01-14,2026-02-15,User11
+DEV072,Warehouse,Data Integrity,Medium,In Progress,2026-03-02,,User1
+DEV073,QC,Data Integrity,Low,In Progress,2025-08-03,,User2
+DEV074,QA,Documentation,Low,Open,2025-02-18,,User19
+DEV075,IT,Equipment,Critical,Closed,2025-01-31,2025-04-01,User1
+DEV076,Warehouse,System,Critical,Open,2025-04-01,,User18
+DEV077,Manufacturing,System,Low,In Progress,2025-11-15,,User20
+DEV078,Warehouse,Data Integrity,High,Open,2025-07-15,,User12
+DEV079,Manufacturing,Training,Critical,Open,2025-02-08,,User19
+DEV080,IT,Equipment,Medium,Open,2025-01-11,,User17
+DEV081,Engineering,System,Critical,Open,2026-03-16,,User11
+DEV082,Engineering,Documentation,Critical,Open,2025-11-21,,User10
+DEV083,IT,Process,High,Closed,2026-01-06,2026-01-17,User17
+DEV084,Manufacturing,Documentation,Low,In Progress,2025-02-21,,User7
+DEV085,Manufacturing,System,Critical,Closed,2025-03-31,2025-05-15,User6
+DEV086,IT,System,Low,Open,2025-05-01,,User14
+DEV087,QC,Equipment,High,Open,2025-12-09,,User16
+DEV088,QC,Documentation,Low,Open,2025-05-29,,User16
+DEV089,QA,Equipment,Low,In Progress,2025-09-14,,User13
+DEV090,Manufacturing,Equipment,Medium,Open,2025-03-27,,User18
+DEV091,Warehouse,Documentation,High,In Progress,2025-08-25,,User16
+DEV092,Warehouse,System,High,In Progress,2025-07-31,,User13
+DEV093,IT,Training,High,In Progress,2025-09-11,,User20
+DEV094,Engineering,Process,High,In Progress,2025-09-19,,User1
+DEV095,Engineering,Equipment,Critical,In Progress,2025-10-16,,User19
+DEV096,IT,Data Integrity,Critical,In Progress,2025-06-19,,User20
+DEV097,Manufacturing,Data Integrity,Medium,Open,2025-03-18,,User19
+DEV098,Engineering,Process,Low,Open,2025-02-03,,User9
+DEV099,IT,Equipment,Medium,Closed,2025-05-11,2025-06-15,User12
+DEV100,QA,System,Critical,In Progress,2025-08-27,,User11
