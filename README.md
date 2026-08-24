@@ -282,7 +282,7 @@ Screenshots will be uploaded after Power BI dashboard development.
 - [x] Build Silver Layer
 - [x] Build Gold Layer
 - [x] Implement Microsoft Fabric Lakehouse
-- [ ] Create Data Warehouse
+- [x] Create Data Warehouse
 - [ ] Develop Power BI Dashboard
 - [ ] Publish Final Project
 
