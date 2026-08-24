@@ -266,6 +266,8 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ✅ Microsoft Fabric Lakehouse Implemented
 
+✅ Data Warehouse Created
+
 🚧 Power BI Dashboard Development In Progress
 
 ---
