@@ -196,7 +196,27 @@ pharma-quality-data-platform
 
 ## Dashboard Screenshots
 
-Dashboard development is currently in progress.
+Power BI dashboard development has been completed.
+
+### Quality Overview Dashboard
+
+Available in:
+- dashboard/screenshots/quality-overview-dashboard.png
+
+### Deviation Analytics Dashboard
+
+Available in:
+- dashboard/screenshots/deviation-analytics-dashboard.png
+
+### CAPA Analytics Dashboard
+
+Available in:
+- dashboard/screenshots/capa-analytics-dashboard.png
+
+### Change Control Analytics Dashboard
+
+Available in:
+- dashboard/screenshots/change-control-dashboard.png
 
 ### Planned Dashboards
 
@@ -238,9 +258,13 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ✅ Gold Layer KPI Dataset Created
 
-🚧 Microsoft Fabric Lakehouse
+✅ Microsoft Fabric Lakehouse Implemented
 
-🚧 Power BI Dashboard
+✅ Data Warehouse Created
+
+✅ Power BI Dashboard Developed
+
+✅ Project Published
 
 ---
 
