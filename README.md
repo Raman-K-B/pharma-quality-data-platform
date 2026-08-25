@@ -268,7 +268,9 @@ Screenshots will be uploaded after Power BI dashboard development.
 
 ✅ Data Warehouse Created
 
-🚧 Power BI Dashboard Development In Progress
+✅ Power BI Dashboard Developed
+
+✅ Project Published
 
 ---
 
@@ -285,8 +287,8 @@ Screenshots will be uploaded after Power BI dashboard development.
 - [x] Build Gold Layer
 - [x] Implement Microsoft Fabric Lakehouse
 - [x] Create Data Warehouse
-- [ ] Develop Power BI Dashboard
-- [ ] Publish Final Project
+- [x] Develop Power BI Dashboard
+- [x] Publish Final Project
 
 ---
 
